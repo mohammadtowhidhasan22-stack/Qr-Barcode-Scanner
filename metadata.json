@@ -1,0 +1,6 @@
+{
+  "name": "QR & Barcode Scanner",
+  "description": "Fast, private offline QR & Barcode Scanner and QR Code Generator with local Room history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
